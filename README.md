@@ -1,4 +1,4 @@
-# odin-recipes
+# bumsy-recipes
 Another html recipe repository
 
 This repository holds the HTML segment concluding assignment of The Odin Project.
