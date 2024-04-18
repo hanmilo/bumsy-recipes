@@ -1,7 +1,8 @@
-# odin-recipes
-Another html recipe repository
+# bumsy-recipes
+Live preview: http://hanmilo.github.io/bumsy-recipes
 
 This repository holds the HTML segment concluding assignment of The Odin Project.
+Bumsy is a lovely cat this page is named after.
 
 Revision:
 1. <\strong> vs <\b>, <\em> vs <\i>.
