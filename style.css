@@ -1,0 +1,54 @@
+/* CSS stylesheet */
+.fullpage {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+.top_navi,
+.sub_title {
+    background-color: lightgoldenrodyellow;
+}
+
+#home_button,
+#next_button {
+    font-size: 16px;
+}
+
+#home_button,
+#next_button,
+.recipe_name {
+    /* font-family: Arial, Helvetica, sans-serif; */
+    background-color: aliceblue;
+    font-weight: 700;
+}
+
+.main_title {
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-size: 36px;
+    font-weight: 700;
+    color:saddlebrown;
+    text-align: center;
+}
+
+.all_menu {
+    text-align: center;
+}
+
+.sub_title,
+.recipe_name {
+    font-size: 22px;
+}
+
+.sub_title {
+    font-weight: 700;
+}
+
+.recipe_img {
+    height: 310px;
+    width: auto;
+}
+
+.recipe_img2 {
+    height: 620px;
+    width: auto;
+}
