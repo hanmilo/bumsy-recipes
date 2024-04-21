@@ -1,17 +1,25 @@
 /* CSS stylesheet */
-.fullpage {
+body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: white;
+}
+
+span{
+    display: inline-flex;
+    margin: .25em;
+    /* text-align: center; */
 }
 
 .top_navi,
 .sub_title {
     background-color: lightgoldenrodyellow;
+    padding: 0 1em;
+    margin: auto;
 }
 
 #home_button,
 #next_button {
-    font-size: 14px;
+    font-size: 1em;
 }
 
 #home_button,
@@ -28,19 +36,49 @@
     font-weight: 700;
     color:saddlebrown;
     text-align: center;
+    border-style: double;
+    border-color: saddlebrown;
+    border-width: .25em;
+    margin: auto;
+    /* margin: auto 8em; */
+    text-wrap:wrap;
 }
 
 .all_menu {
     text-align: center;
+    display: inline-flex;
+    /* padding: 1em auto 1em 1em; */
+    margin: 1em auto;
+    flex-wrap: wrap;
 }
 
-.sub_title,
-.recipe_name {
+.sub_title {
     font-size: 22px;
 }
 
 .sub_title {
     font-weight: 700;
+    text-align: center
+}
+
+.recipe_name {
+    font-size: 12px;
+}
+
+button {
+    display: auto;
+    margin: 0 auto 0 0.5em;
+    width: 6em;
+    /* text-wrap:nowrap; */
+    /* text-orientation:sideways; */
+}
+
+img {
+    border: 0.25em solid saddlebrown;
+}
+
+button a:hover {
+    font-weight: 900;
 }
 
 .recipe_img {
